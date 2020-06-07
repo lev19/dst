@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"Doctor Single Track",
+    "hometitle" : "We are medical software company",
+    "occupation":"Full-stack web developer using ReactJs, Javascript ES5, ES6  and  .Net 4.6",
+    "description":"Developing non standard processing for patient care",
+    "subDescription":"What mutual between riding on unknown single track by mountain bike and the way of the medical treatment of the patient? First of all in both cases you are alone. Next you don’t know the end of the journey . Each round can be unexpected. The patient like mountain biker can be prepared to any surprise. No one can be ensured from fall. Rider like patient have to know to stand again , remove the dust and to continue forward to the target",
+    "image":"arrows.jpg",
+    "bio":"Our technology intended for any medical patient process consist of several stage of treatment. In general, in medical treatment engaged several medical organizations. In most cases the integration between them not very effective. And patient can lost most important  resource – the time. In serious diseases the time is crucial factor. Sometimes the lost time differ between life and death. The technology helps solve the problem of integration. And as result improve successive  results of patient health care",
+    "contactmessage":"Contact me",
+    "email": "levbio@yahoo.com",
+    "phone": "0506571213",
+    "address":{
+      "street":"Alizer Alter",
+      "city":"Haifa",
+      "state":"Israel",
+      "zip": "32001"
+    },
+    "show_download_button" :false,
+    "website": "",
+    "resumedownload":"pdf/cv.pdf",
+    "audioFileName":"LinkinPark.mp3",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lev-faiger-96034a27/",
+        "className":"fa fa-linkedin"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "skillSubMessage":"" ,
+    "education":[
+      {
+        "school":"Melanoma Therapies With KEYTRUDA",
+        "degree":"Hadassah Medical Center",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Quick Stroke Treatment",
+        "website":"",
+        "title":"Sheba Medical Center",
+        "years":"",
+        "description":""
+      }
+    ],
+    "personalmedecine":[
+      {
+        "company":"Personal medecine",
+        "website":"https://www.youtube.com/watch?v=7GC0Jme2Fj4",
+        "title":"Virtual Reality experience",
+        "years":"",
+        "description":""
+      }
+    ],
+    "generalmedecine":[
+      {
+        "company":"Appendix conservative ",
+        "website":"",
+        "title":"Rambam Health Care",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Maccabi Healthcare",
+        "level":"15%"
+      },
+      {
+        "name":"Rambam Health Care",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Silverbyte, Property Management System",
+        "category":"Algorithms",
+        "image":"PMS.jpg",
+        "url":null,
+        "itemsproject":[
+          {
+            "title":"Build WEB API SERVICES for hotel management of: PRICE OF THE ROOM , YIELD BY DATES, AVAILIBILITY, CALENDAR OF RESERVARTIONS, MAINTAINACE OF THE ROOM IN HOTEL, INVENTORY",
+            "skills":"C#,Entity Framework 6,SQL"
+          }
+        ],
+        "projectTitle":"Hotel Property Management System",
+        "projectDescription":
+        "Developing Hotel Property Management System. The system used for reservation, availability and occupancy management, check-in/out, images, guest profiles, report generation etc. This application is used in-house (in an individual hotel) to control the onsite property activities.The system is installed in 90% of Israel hotels. As also in hotel of Germany,Holland,UK and others countires"
+ 
+       },
+       {
+        "title":"Silverbyte, Property Management System - GUI",
+        "category":"Client side reach user interface",
+        "image":"tree.jpg",
+        "url":null,
+        "itemsproject":[
+          
+          {
+            "title":"Build different GUI for update of inventory Hotel Property Management System",
+            "skills":"AngularJs, ReactJs,Pure Javascript"
+          }
+        ],
+        "projectTitle":"GUI for Hotel Management",
+        "projectDescription":
+        "Developing client side GUI. Using of self developed controls and exsiting javascript libraries: kendo, semantic ui react, devextreme  reactive"
+ 
+       },
+      {
+        "title":"Silverbyte, Hotel Data Transfer",
+        "category":"Algorithms",
+        "image":"chanels.jpg",
+        "url":null,
+        "itemsproject":[
+          {
+            "title":"Build server side algorithms, for example room price on specific dates depends on diffirent paramers like availibility, yield, occupancy, maitainace ",
+            "skills":"C#,Entity Framework 6,Design Patterns"
+          }
+        ],
+        "projectTitle":"Hotel Data Transfer",
+        "projectDescription":
+        "Developing a tool that will allow you to sell all your rooms on all your connected booking sites (like Booking.com ,Expedia, AirBNB ) at the same time. It will automatically update your availability in real-time on all sites when a booking is made, when you close a room to sale, or when you want to make bulk changes to your inventory"
+       
+            }
+      ,
+      {
+        "title":"IDC Herzliya",
+        "category":"Portals",
+        "image":"IDC.JPG",
+        "url":"https://www.idc.ac.il/en/schools/rris/pages/home.aspx",
+        "itemsproject":null
+      },
+      {
+        "title":"IDC Herzliya,The IDC Library",
+        "category":"Search portal",
+        "image":"Library.jpg",
+        "url":"https://www.idc.ac.il/en/library/pages/library-services.aspx",
+        "itemsproject":null
+      },
+      {
+        "title":"IDC Herzliya, IDC Herzliya scholarship dynamic forms,Financial Aid and Scholarships",
+        "category": "Uploaded forms portal, C#,JavaScript,Scheduler tasks",
+        "image":"RRIS.jpg",
+        "url":"https://www.idc.ac.il/en/schools/rris/undergraduate/pages/tracks.aspx",
+        "itemsproject":null
+      },
+      {
+        "title":"Advantech,Azorim Construction Ltd",
+        "category":"Search portal. C#,Javascript,Sharepoint",
+        "image":"Azorim.jpg",
+        "url":"https://www.azorim.co.il/en/projects",
+        "itemsproject":null
+      },
+      {
+        "title":"Advantech,Hertz car rental services in Israel",
+        "category":"CRM and Search portal,Microsoft Dynamic CRM, C#,JavaScript",
+        "image":"Hertz.jpg",
+        "url":"https://www.hertz.co.il/en/homepage/.aspx",
+        "itemsproject":null
+      }
+      
+    ]
+    
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+ 
+}
