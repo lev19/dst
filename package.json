@@ -1,8 +1,8 @@
 {
-  "name": "personalportfolio",
+  "name": "dst",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://levfaiger.site/",
+  "homepage": "https://lev19.github.io/dst/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "jquery": "^3.2.1",
