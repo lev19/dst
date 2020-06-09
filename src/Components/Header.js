@@ -44,7 +44,7 @@ function Header ({data}) {
          <div className="banner-text">
             <h1 className="responsive-headline">{hometitle}.</h1>
             <div style={subDescriptionStyle}>{description}.</div>
-            <p style={subDescriptionStyle}>{data.subDescription}</p>
+            <h3>{data.subDescription}</h3>
             <hr />
             
          </div>
