@@ -18,6 +18,10 @@ class About extends Component {
       }
    }
    
+   const aboutStyle = {
+      color: 'white',
+      fontSize:'1.4em'
+    };
 
       return (
          <section id="about">
@@ -29,7 +33,7 @@ class About extends Component {
                <div className="nine columns main-col">
                   <h2>About Us</h2>
 
-                  <p>{bio}</p>
+                  <p style={aboutStyle}>{bio}</p>
                   <div className="row">
                      <div className="columns contact-details">
                         <h2>Contact Details</h2>

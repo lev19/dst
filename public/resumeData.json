@@ -2,11 +2,11 @@
   "main": {
     "name":"Doctor Single Track",
     "hometitle" : "We are medical software company",
-    "occupation":"Full-stack web developer using ReactJs, Javascript ES5, ES6  and  .Net 4.6",
+    "occupation":"",
     "description":"Developing non standard processing for patient care",
     "subDescription":"What mutual between riding on unknown single track by mountain bike and the way of the medical treatment of the patient? First of all in both cases you are alone. Next you don’t know the end of the journey . Each round can be unexpected. The patient like mountain biker can be prepared to any surprise. No one can be ensured from fall. Rider like patient have to know to stand again , remove the dust and to continue forward to the target",
     "image":"arrows.jpg",
-    "bio":"Our technology intended for any medical patient process consist of several stage of treatment. In general, in medical treatment engaged several medical organizations. In most cases the integration between them not very effective. And patient can lost most important  resource – the time. In serious diseases the time is crucial factor. Sometimes the lost time differ between life and death. The technology helps solve the problem of integration. And as result improve successive  results of patient health care",
+    "bio":"Our technology intended for any medical patient process consist of several stage of treatment. In general, in medical treatment engaged several medical organizations. In most cases the integration between them not very effective. And patient can lost most important  resource – the time. In serious diseases the time is crucial factor. Sometimes the lost time differ between life and death. The technology helps solve the problem of integration. And as result improve successive  results of patient health care.",
     "contactmessage":"Contact us",
     "email": "levbio@yahoo.com",
     "phone": "0506571213",

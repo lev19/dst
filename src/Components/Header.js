@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import AudioPlayer from './AudioPlayer';
+
 
 function Header ({data}) {
  
@@ -14,8 +14,14 @@ function Header ({data}) {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     
+      const subDescriptionStyle = {
+         color: 'white',
+         fontSize:'1.4em'
+       };
 
     return (
+
+      
       <header id="home">
 
       <nav id="nav-wrap">
@@ -34,11 +40,11 @@ function Header ({data}) {
       </nav>
 
       <div className="row banner">
-      <AudioPlayer data={data} autoPlay={false} ></AudioPlayer>
+      
          <div className="banner-text">
             <h1 className="responsive-headline">{hometitle}.</h1>
-            <h3><span>{occupation}</span>{description}.</h3>
-            <h3>{data.subDescription}</h3>
+            <div style={subDescriptionStyle}>{description}.</div>
+            <p style={subDescriptionStyle}>{data.subDescription}</p>
             <hr />
             
          </div>
